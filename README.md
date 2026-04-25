@@ -1,4 +1,4 @@
-Financial Time-Series Anomaly Detection
+#Financial Time-Series Anomaly Detection
 
 Overview
 A machine learning-based application designed to analyze financial time-series data and identify anomalous patterns. The system enables users to upload stock datasets, explore trends, and detect irregular behavior through an interactive interface.
